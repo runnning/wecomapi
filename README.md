@@ -149,7 +149,3 @@ $api->dosomething()
 ....
 ```
 当然，如果要更严格的做的话，建议自行修改，```全局缓存token，比如存redis、存文件等```，失效周期设置为2小时。
-
-# Contact us  
-logme@foxmail.cn 
-# 
