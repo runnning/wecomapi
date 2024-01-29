@@ -16,11 +16,11 @@
 后续会继续增加丰富其功能。
 
 ### composer 安装方法：
-composer require logmecn/weworkapi
+composer require ywn/wecomapi
 
 或在 require 中添加以下，并执行 composer update
 ```$xslt
-"logmecn/weworkapi":  "dev-master"
+"ywn/wecomapi":  "dev-master"
 ```
 
 ### Phalapi 框架的使用方法建议：
