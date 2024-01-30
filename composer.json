@@ -3,7 +3,7 @@
   "description": "WeWork API SDK, 企业微信接口客户端SDK封装",
   "keywords": ["logmecn", "weWork"],
   "license": "MIT",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "type": "library",
   "authors": [
     {
